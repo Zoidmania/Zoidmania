@@ -1,6 +1,6 @@
 
 I'm Leland. I'm a system administrator and software engineer at `$WORK`. At `$HOME`, I'm a hobby
-home-labber and game developer using Godot. I founded Digital Dice Games, LLC.
+home-labber and game developer using Godot. I cofounded Digital Dice Games, LLC.
 
 ![](https://img.shields.io/badge/Language-Python-informational?logo=python&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Language-C++-informational?logo=cplusplus&logoColor=white&color=yellow)
